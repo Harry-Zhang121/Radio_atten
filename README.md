@@ -14,7 +14,7 @@ Use this regex.
 This will extract v_level to group1, time and date to group2 and e_level to group3. 
 
 ```
-(?:InterfacRx.+)(-\d{2})(?:\sdBm\s{3})(\d{2}:\d{2}:\d{2}\s\d{2}-\d{2}-\d{4})(?:\n.+\s)?(-\d{2})?
+(?:InterfacRx.+)(-\d{2})(?:\sdBm\s{3})(\d{2}:\d{2}:\d{2}\s\d{2}-\d{2}-\d{4})(?:\n.+\s)(-\d{2})
 ```
 
 ## Oracle database nonsence
