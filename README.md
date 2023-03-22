@@ -1,4 +1,5 @@
 # Radio_atten
+The 60GHz radio signal provides high bandwidth and high frequency reuse rates for communication due to the high oxygen attenuation around this frequency. However, rain attenuation is also high because of the high frequency. This research aims to measure and compare the effect of rain attenuation on 60GHz radio signals to the theoretical value.
 
 ## Important notes
 
